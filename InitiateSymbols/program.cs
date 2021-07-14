@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Information;
 
-namespace Initiate
+namespace InitiateSymbols
 {
     public class InitSymbols
     {

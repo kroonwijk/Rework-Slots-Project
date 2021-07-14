@@ -2,13 +2,13 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\GameInfo\Information.csproj" />
-    <ProjectReference Include="..\InitiateBoard\Initiate Board.csproj" />
-    <ProjectReference Include="..\Initiate\Initiate Symbols.csproj" />
+    <ProjectReference Include="..\Information\Information.csproj" />
+    <ProjectReference Include="..\InitiateBoard\InitiateBoard.csproj" />
+    <ProjectReference Include="..\InitiateSymbols\InitiateSymbols.csproj" />
   </ItemGroup>
 
 </Project>

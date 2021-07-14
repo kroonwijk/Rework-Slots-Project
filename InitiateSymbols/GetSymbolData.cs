@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 using Information;
 
-namespace Initiate
+namespace InitiateSymbols
 {
     public class GetSymbolData
     {

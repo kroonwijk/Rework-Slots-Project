@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Information;
-using Initiate;
+using InitiateSymbols;
 
 namespace InitiateBoard
 {

@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 using Information;
-using Initiate;
+using InitiateSymbols;
 using InitiateBoard;
 
 namespace SweetBonanzaGame
